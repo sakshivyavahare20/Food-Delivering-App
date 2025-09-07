@@ -1,0 +1,2 @@
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/"
+export const LOGO_URL="https://img.freepik.com/premium-vector/food-delivery-motorcycle-with-box_461522-22.jpg?semt=ais_hybrid&w=740&q=80"
